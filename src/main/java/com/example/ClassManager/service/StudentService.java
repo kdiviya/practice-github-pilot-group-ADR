@@ -1,7 +1,11 @@
 package com.example.ClassManager.service;
 
 import com.example.ClassManager.models.Student;
+<<<<<<< HEAD
 import com.example.ClassManager.repositories.StudentRepository;
+=======
+import com.example.ClassManager.repository.StudentRepository;
+>>>>>>> baf0a92eb089f91b9da0b86cb6783d432991483c
 import org.springframework.stereotype.Service;
 
 import java.util.List;

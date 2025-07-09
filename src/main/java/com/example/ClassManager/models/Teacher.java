@@ -13,4 +13,8 @@ public class Teacher {
     public void setId(Long id) { this.id = id; }
     public String getName() { return name; }
     public void setName(String name) { this.name = name; }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> baf0a92eb089f91b9da0b86cb6783d432991483c
